@@ -1,0 +1,8 @@
+﻿Domain;Execution Time [s];Analyzed Methods;Redundant Instructions;Evaluated Instructions
+Precise;518,16;63702;1790;19249116
+PreciseWithIntRange;507,9;63702;1659;19253999
+Imprecise;539,85;63703;332;19247056
+IntegerSet;543,16;63702;1751;19249156
+IntegerRange;533,28;63702;1659;19253999
+LongSet;531,88;63702;1659;19253999
+String;541,5;63702;1790;19249116

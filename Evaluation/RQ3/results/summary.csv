@@ -1,0 +1,12 @@
+﻿Project;URL;Reduction;Library Methods;Original Library Stack Size;Execution Time;Application Methods;;
+Exitcode;https://github.com/TheCyaniteProject/exit_code_java;67,68%;290;60,3;436371354;362;;
+Github API Examples;https://github.com/kevinsawicki/github-api-examples;24,03%;6497;1218,6;80033706054;6;;
+guava;https://github.com/eugenp/tutorials/tree/master/guava;18,49%;54342;10342,4;20733838784;428;;
+guava-collections;https://github.com/eugenp/tutorials/tree/master/guava-collections;19,85%;58949;11059,2;3,09083E+11;273;;
+Java Text Adventure;https://github.com/Progether/Jadventure;48,88%;14573;4249,6;302083774;499;;
+Jpass;https://github.com/gaborbata/jpass;25,76%;16561;2744,3;23207502239;353;;
+Vertx-Examples: maven-simplest;https://github.com/vert-x3/vertx-examples/tree/master/maven-simplest;14,88%;42650;6400;5,5122E+15;3;;
+rxjava;https://github.com/eugenp/tutorials/tree/7940f0d912e9ae1b1273f08562a6f19c11fd11e0/rxjava;25,69%;72251;13824;5,82873E+15;414;;
+swing-tutorials;https://github.com/BranislavLazic/SwingTutorials;61,89%;758;79,3;72707706602;173;;
+Typometer;https://github.com/pavelfatin/typometer;17,93%;2786;1413,1;1092773414;512;;
+;;;;;;;;

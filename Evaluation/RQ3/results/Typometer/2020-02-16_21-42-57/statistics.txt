@@ -1,0 +1,9 @@
+ProjectPackages -> 8
+ProjectFields -> 223
+LibraryMethods -> 2786
+ProjectInstructions -> 10380
+ProjectMethods -> 512
+LibraryClassFiles -> 438
+LibraryFields -> 703
+LibraryPackages -> 36
+ProjectClassFiles -> 66

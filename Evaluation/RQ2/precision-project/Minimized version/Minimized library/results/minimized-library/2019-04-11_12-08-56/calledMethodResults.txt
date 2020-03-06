@@ -1,0 +1,1 @@
+CalledMethodResultCount(equals,ObjectType(java/lang/String),1)
